@@ -1,0 +1,16 @@
+[Info]
+name = "NoDTC_CodeMan"
+displayname = "NoDTC_CodeMan"
+author = "Halkaze"
+pal.defautls = 1,
+
+[Files]
+cmd = CNS/kfm.cmd
+cns = CNS/kfm.cns
+st = CNS/Code.cns
+st0 = CNS/Null.cns
+ai = CNS/Code.ai
+stcommon = 
+sprite = RES/NoDTC_CodeMan.sff
+anim = RES/NoDTC_CodeMan.air
+sound = 
